@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MySneakersRack</string>
+    <string name="neededPermissions">To go over, the app needs the CAMERA  and GALLERY PERMISSION to access to the camera Content Provider</string>
+    <string name="grantPermission">Grant Now the camera permission</string>
+    <string name="insertPassword">Insert password..</string>
+    <string name="insertEmail">Insert email address..</string>
+    <string name="goToRegister">Not register? Click here to create a new account!</string>
+    <string name="login">LogIn</string>
+    <string name="insertPassword2">Insert again the password..</string>
+    <string name="goToLogin">"Do you already have an account? Click here and login! "</string>
+    <string name="insertPasswordAgain">Insert again the password..</string>
+    <string name="signup">Signup</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="calendarId">ID Calendar</string>
+    <string name="eventId">ID Event</string>
+    <string name="startDate">Start Date</string>
+    <string name="title_activity_rack">Rack</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="story1">Nell’Aprile del 1985, con un prezzo di $65, disegnata da Peter Moore, arriva la prima Air Jordan 1, ovvero le “AIR JORDAN I OG BLACK / RED”, prodotta e venduta dalla Nike.
+
+
+    </string>
+
+
+</resources>

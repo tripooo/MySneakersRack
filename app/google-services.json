@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957248156675",
+    "project_id": "my-sneakers-rack",
+    "storage_bucket": "my-sneakers-rack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957248156675:android:ad88989eb012925bed4a36",
+        "android_client_info": {
+          "package_name": "com.example.mysneakersrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBWoq3XhshjTpEUnTYtP57jRbXkkAOE9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
